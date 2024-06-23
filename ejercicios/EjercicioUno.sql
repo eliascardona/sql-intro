@@ -58,3 +58,21 @@ SELECT e.emp_nombre, m.porcentaje
 FROM empleado e
 JOIN merito m ON e.desempeno = m.desempeno
 WHERE e.desempeno = 1;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
